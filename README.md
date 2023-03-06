@@ -7,4 +7,5 @@
 - Tailwind CSS
 - Framer Motion
 - Sanity.io
+- React Hook Form
 
