@@ -1,4 +1,4 @@
-# Build a Portfolio with NextJS, ReactJS, Sanity.io, Tailwind CSS and Framer Motion
+# Build a Portfolio with NextJS, ReactJS, Tailwind CSS and Framer Motion
 
 # Tech Stack
 - NextJS
