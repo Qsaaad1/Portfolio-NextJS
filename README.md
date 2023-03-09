@@ -6,6 +6,5 @@
 - Material UI
 - Tailwind CSS
 - Framer Motion
-- Sanity.io
 - React Hook Form
 
