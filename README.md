@@ -1,7 +1,4 @@
 #WIP
 
 
-![Screenshot 2023-08-06 at 10 10 30 PM](https://github.com/Qsaaad1/WIP/assets/101616957/7684e63c-4e23-42a4-aafd-eb35f2e15ff4)
-
-
-
+![375414744_310575428128091_2965353411761850409_n](https://github.com/Qsaaad1/WIP/assets/101616957/bf9e6477-eb3d-4a83-9f79-c1bed490ef30)
