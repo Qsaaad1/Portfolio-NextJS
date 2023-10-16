@@ -1,6 +1,5 @@
 #WIP
 
 
-![IMG_20230904_014149193_processed (2) (1)](https://github.com/Qsaaad1/WIP/assets/101616957/5ae70a26-004b-44a5-b6c2-5cdcb87633fe)
 
-
+![9566A83F-1BA5-4501-AF2A-09C4D4A842B3](https://github.com/Qsaaad1/WIP/assets/101616957/f7d07228-e8ba-47ca-917f-4aede3c6b126)
